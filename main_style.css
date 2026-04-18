@@ -28,7 +28,7 @@ button:active {
     color:gold;
 }
 body {
-    background-image: linear-gradient(grey, dimgrey);
+    background-color: white;
 }
 .port {
     width: 100px;

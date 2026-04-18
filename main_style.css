@@ -28,7 +28,7 @@ button:active {
     color:gold;
 }
 body {
-    background-color: white;
+    background-color: gray;
 }
 .port {
     width: 100px;
